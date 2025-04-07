@@ -1,0 +1,7 @@
+What does OOSU10.exe do?
+
+It disables tracking, spyware and various different forms of bloat.
+QuakedOOshutup10.cfg gets imported with my settings, optimizing the users system!
+
+OOSU10 Link: https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe
+OOshutup10.cfg Link: https://github.com/QuakedK/Oneclick/blob/main/Downloads/QuakedOOshutup10.cfg
